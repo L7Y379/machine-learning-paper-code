@@ -1,4 +1,4 @@
-# 关于machine learning的一些资料和论文  
+# 关于machine learning的一些资料和论文与实验室研究成果  
 
 ## 主要研究邻域为： 
 
